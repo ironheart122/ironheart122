@@ -14,7 +14,7 @@ Senior engineer with 10+ years of experience building production systems across 
 
 **Frontend** - React, Vue 3, TypeScript, Expo, Astro, Remix, Next.js  
 **Backend** - Node.js, Go, Python, Hono.js, NestJS  
-**Infrastructure** - AWS Serverless, SST, Terraform, Turso, Docker, Cloudflare  
+**Infrastructure** - AWS Serverless, SST, Terraform, Turso, Docker, Supabase, Cloudflare  
 **Data** - PostgreSQL, MySQL, SQLite, Redis, AWS DynamoDB, DrizzleORM
 
 ### Projects
