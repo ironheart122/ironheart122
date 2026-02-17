@@ -4,7 +4,7 @@ Senior engineer with 10+ years of experience building production systems across 
 
 ### Experience
 
-**Founder & Lead Engineer** — [Signal Inbox](https://getsignalinbox.com)  
+**Founder & Lead Engineer** - [Signal Inbox](https://getsignalinbox.com)  
 *Current Focus*
 
 **Senior Full-Stack Engineer** - Various  
@@ -19,7 +19,7 @@ Senior engineer with 10+ years of experience building production systems across 
 
 ### Projects
 
-**Signal Inbox** — Building production-grade messaging infra.
+**Signal Inbox** - Building production-grade messaging infra.
 
 ### Connect
 
