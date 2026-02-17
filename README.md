@@ -24,6 +24,7 @@ Senior engineer with 10+ years of experience building production systems across 
 ### Connect
 
 → [Email](mailto:moncy@getsignalinbox.com)
+
 → [Discord](https://discord.com/users/236351160674418688)
 
 *Message me for my resume.*
