@@ -8,7 +8,7 @@ I’ve worked with international teams across the UK, US, Japan, and the Middle 
 
 ### Experience
 
-**Founder & Lead Engineer** - [Signal Inbox](https://getsignalinbox.com)  
+**Co-Founder & Lead Engineer** - [Signal Inbox](https://getsignalinbox.com)  
 *Current Focus*
 
 **Senior Full-Stack Engineer** - Various  
