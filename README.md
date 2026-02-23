@@ -11,7 +11,7 @@ I’ve worked with international teams across the UK, US, Japan, and the Middle 
 **Co-Founder & Lead Engineer** - [Signal Inbox](https://getsignalinbox.com)  
 *Current Focus*
 
-**Senior Full-Stack Engineer** - Various  
+**Senior Software Engineer** - Various  
 *10+ Years · Fintech, Manufacturing, Edtech*
 
 ### Stack
