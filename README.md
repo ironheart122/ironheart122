@@ -12,7 +12,7 @@ I’ve worked with international teams across the UK, US, Japan, and the Middle 
 *Current Focus*
 
 **Senior Software Engineer** - Various  
-*10+ Years · Fintech, Manufacturing, Edtech*
+*10+ Years · Fintech, Proptech, Edtech, Manufacturing*
 
 ### Stack
 
