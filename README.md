@@ -17,7 +17,7 @@ I’ve worked with international teams across the UK, US, Japan, and the Middle 
 ### Stack
 
 **Frontend** - React, Vue 3, TypeScript, Expo, Astro, Remix, Next.js  
-**Backend** - Node.js, Go, Python, Hono.js, NestJS  
+**Backend** - Node.js, Go, Python, Hono.js, RabbitMQ, NestJS  
 **Infrastructure** - AWS Serverless, SST, Terraform, Turso, Docker, Supabase, Cloudflare  
 **Data** - PostgreSQL, MySQL, SQLite, Redis, AWS DynamoDB, DrizzleORM
 
