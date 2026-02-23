@@ -2,7 +2,7 @@
 
 Senior Software Engineer specializing in scalable, event-driven production systems.
 
-With 10+ years of experience across fintech, edtech, proptech, AI, and mobile, I design and ship high-throughput systems end-to-end - from data modeling and backend architecture to frontend and mobile applications.
+With 10+ years of experience across fintech, edtech, proptech, web3, AI, and mobile, I design and ship high-throughput systems end-to-end - from data modeling and backend architecture to frontend and mobile applications.
 
 I’ve worked with international teams across the UK, US, Japan, and the Middle East, delivering production-grade systems with a focus on scalability, reliability, and maintainability.
 
@@ -12,7 +12,7 @@ I’ve worked with international teams across the UK, US, Japan, and the Middle 
 *Current Focus*
 
 **Senior Software Engineer** - Various  
-*10+ Years · Fintech, Proptech, Edtech, Manufacturing*
+*10+ Years · Fintech, Proptech, Edtech, Web3, AI*
 
 ### Stack
 
